@@ -1,5 +1,9 @@
 # Simple Vending Machine
- 
+## App Snapshots
+![Image](https://i.ibb.co/2FSq7bJ/vendingmachine.png)
+![Image](https://i.ibb.co/NshvMPm/vendingmachinecheckout.png)
+![Image](https://i.ibb.co/LgcmcWH/Receipt.png)
+![Image](https://i.ibb.co/GptBmbM/Receiptv2.png)
 ## Team Information
 - Eike Morgado Bodecker
 - Jeff Anderson Charriot
@@ -75,8 +79,8 @@ GetTransactions: string
 GetReceipt : string
 
 ## Contributions
-Eike: Front-End
-Jeff: Back-End
+- Eike: Front-End
+- Jeff: Back-End
 
 ## Main Windows:
  
