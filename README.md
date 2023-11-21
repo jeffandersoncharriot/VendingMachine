@@ -1,7 +1,7 @@
 Simple Vending Machine
  
 Team Information
-Eike Morgado Bodecker
+Eike Morgado Bodecker <br/>
 Jeff Anderson Charriot
 Project Description
 Requirements for the app:
