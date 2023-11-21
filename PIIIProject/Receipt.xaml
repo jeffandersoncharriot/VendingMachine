@@ -1,0 +1,22 @@
+﻿<Window x:Class="PIIIProject.Receipt"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PIIIProject"
+        mc:Ignorable="d"
+        Title="Receipt" MinHeight="450" Width="350"
+        WindowStartupLocation="CenterScreen"
+        SizeToContent="WidthAndHeight"
+        ResizeMode="NoResize">
+    <StackPanel Margin="5">
+        <TextBlock>Receipt</TextBlock>
+
+        <TextBlock x:Name="receiptTxt"></TextBlock>
+        
+        <Label Content="Thanks for using our vending machine" Grid.Row="5"/>
+
+        <Button Content="Home" Click="btnHome_Click"></Button>
+    
+    </StackPanel>
+</Window>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PIIIProject", "PIIIProject\PIIIProject.csproj", "{EA701C29-9CBE-45B9-89E9-CB6485093AEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIIIProjectCode", "PIIIProjectCode\PIIIProjectCode.csproj", "{DAE0DE44-0B8D-45DA-9DC3-6F402C706001}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA701C29-9CBE-45B9-89E9-CB6485093AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA701C29-9CBE-45B9-89E9-CB6485093AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA701C29-9CBE-45B9-89E9-CB6485093AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA701C29-9CBE-45B9-89E9-CB6485093AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAE0DE44-0B8D-45DA-9DC3-6F402C706001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAE0DE44-0B8D-45DA-9DC3-6F402C706001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAE0DE44-0B8D-45DA-9DC3-6F402C706001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAE0DE44-0B8D-45DA-9DC3-6F402C706001}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A11CA374-3A7E-4FCA-85DD-EB3160EA3FAC}
+	EndGlobalSection
+EndGlobal

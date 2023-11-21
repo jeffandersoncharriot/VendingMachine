@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="images\cart.png" />
+    <None Remove="images\delete.png" />
+    <None Remove="images\reset.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PIIIProjectCode\PIIIProjectCode.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\cart.png" />
+    <Resource Include="images\delete.png" />
+    <Resource Include="images\reset.png" />
+  </ItemGroup>
+
+</Project>
