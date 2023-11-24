@@ -82,14 +82,6 @@ GetReceipt : string
 - Eike: Front-End
 - Jeff: Back-End
 
-## Main Windows:
- 
-
-Checkout if Debit is used:	Checkout if cash is used:
-    	 
-Receipt if debit was used:	Receipt if cash was used:
- 		 
-
 ## Future Work
 UI could be improved to make it look more inviting.
 Right now, only the quantity of items is read from a file in the future also the items themselves could be read from a file (maybe a csv file with columns: item quantity, price.
