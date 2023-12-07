@@ -1,9 +1,12 @@
 # Simple Vending Machine
 ## App Snapshots
-![Image](https://i.ibb.co/2FSq7bJ/vendingmachine.png)
-![Image](https://i.ibb.co/NshvMPm/vendingmachinecheckout.png)
-![Image](https://i.ibb.co/LgcmcWH/Receipt.png)
-![Image](https://i.ibb.co/GptBmbM/Receiptv2.png)
+![image](https://github.com/jeffandersoncharriot/VendingMachine/assets/98402030/fb57982a-78cf-42b4-b20a-2e9f96efdd2a)
+![image](https://github.com/jeffandersoncharriot/VendingMachine/assets/98402030/de84555c-298f-4dba-bb8d-821249b4a530)
+![image](https://github.com/jeffandersoncharriot/VendingMachine/assets/98402030/a6de6820-b026-47e0-9d9c-f7c84d48fc3a)
+![image](https://github.com/jeffandersoncharriot/VendingMachine/assets/98402030/28390d31-968a-4952-b23b-a9f364d6f439)
+![image](https://github.com/jeffandersoncharriot/VendingMachine/assets/98402030/524496bb-e5c4-4424-a4b1-b27c2307f57f)
+
+
 ## Team Information
 - Eike Morgado Bodecker
 - Jeff Anderson Charriot
